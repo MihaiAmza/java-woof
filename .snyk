@@ -1,0 +1,4 @@
+ignore:
+  global:
+    - .env.dist     #env file for local development
+    - src/test/**
